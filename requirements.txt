@@ -1,4 +1,0 @@
-telebot
-transformers
-pandas
-python-telegram-bot
